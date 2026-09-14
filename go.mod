@@ -3,7 +3,6 @@ module github.com/prometheus-community/windows_exporter
 go 1.25.0
 
 require (
-	github.com/Microsoft/hcsshim v0.14.1
 	github.com/alecthomas/kingpin/v2 v2.4.0
 	github.com/bmatcuk/doublestar/v4 v4.10.0
 	github.com/dimchansky/utfbom v1.1.1
